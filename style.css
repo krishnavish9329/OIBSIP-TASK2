@@ -189,3 +189,9 @@ footer p:nth-child(2){
     box-shadow: 4px 4px 16px black;
     color: #ffc600;
 }
+
+.firstBut a
+{
+	color: white;
+    text-decoration: none;
+}
